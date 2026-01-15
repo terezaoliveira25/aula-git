@@ -1,2 +1,3 @@
-const entrada = "Tereza"
-console.log('Meu nome é ' + entrada)
+const frase = "Estudar na Treina é massa"
+
+console.log(frase)
